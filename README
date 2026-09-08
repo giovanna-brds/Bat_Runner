@@ -1,0 +1,88 @@
+# 🦇 Bat Runner
+
+## 📝 Descrição do Projeto
+
+O Bat Runner é um jogo 2D desenvolvido em Python utilizando a biblioteca Pygame, inspirado na dinâmica simples e intuitiva do clássico jogo do Dino do Google Chrome.
+
+O objetivo do jogo é controlar um morcego e desviar dos obstáculos que aparecem pelo caminho, tentando permanecer em movimento pelo maior tempo possível. Conforme a partida avança, o jogador precisa reagir cada vez mais rápido aos obstáculos, tornando a experiência progressivamente mais desafiadora.
+
+O projeto foi desenvolvido como uma forma de explorar os fundamentos do desenvolvimento de jogos em Python, trabalhando conceitos como loop de jogo, movimentação de personagens, detecção de colisões, eventos do teclado, geração de obstáculos, pontuação e gerenciamento de estados.
+
+Além da inspiração na mecânica do Dino, desenvolvi uma identidade visual própria para o jogo, utilizando elementos gráficos em pixel art para criar uma temática noturna.
+
+---
+
+## ⚙️ Funcionalidades do Projeto
+
+* **Controle do Personagem:** Permite controlar o morcego utilizando os comandos do teclado.
+* **Desvio de Obstáculos:** O jogador deve desviar dos obstáculos que aparecem durante a partida.
+* **Sistema de Pontuação:** A pontuação aumenta conforme o jogador permanece na partida.
+* **Aumento da Dificuldade:** A progressão da partida torna os obstáculos mais desafiadores, exigindo maior tempo de reação.
+* **Detecção de Colisões:** O jogo identifica quando o personagem entra em contato com um obstáculo e encerra a partida.
+* **Loop de Jogo:** Atualização contínua dos elementos da partida, incluindo movimentação, obstáculos, pontuação e eventos do jogador.
+* **Interface em Pixel Art:** Elementos visuais desenvolvidos para criar uma identidade própria inspirada em uma temática noturna.
+
+---
+
+## 🧪 Testes de Software
+
+* **Teste de Movimentação:** Verificação da resposta do personagem aos comandos realizados pelo teclado.
+* **Teste de Colisão:** Validação da detecção de contato entre o personagem e os obstáculos.
+* **Teste de Pontuação:** Verificação do aumento correto da pontuação durante a partida.
+* **Teste de Obstáculos:** Verificação da geração e movimentação dos obstáculos ao longo do jogo.
+* **Teste de Game Over:** Validação do encerramento da partida após uma colisão.
+* **Teste de Funcionamento:** Execução de diferentes partidas para verificar o comportamento conjunto dos elementos do jogo.
+
+⸻
+
+## 🛠️ Tecnologias e Linguagens
+
+* Python
+
+⸻
+
+## 📚 Bibliotecas e Frameworks
+
+* **Pygame** — Biblioteca utilizada para desenvolvimento do jogo, gerenciamento da janela, eventos, imagens, movimentação e elementos da partida.
+---
+
+## 📦 Pré-requisitos e Instalação
+
+### Pré-requisitos
+
+* Python 3.x
+* Gerenciador de pacotes pip
+```bash
+Passo a passo para clonar e instalar
+
+# 1. Clone o repositório
+git clone https://github.com/SEU-USUARIO/bat-runner.git
+# 2. Acesse a pasta do projeto
+cd bat-runner
+# 3. Instale a biblioteca necessária
+pip install pygame
+```
+---
+
+##🚀 Instruções de Uso
+```bash
+# 1. Abra o terminal na pasta do projeto
+# 2. Execute o arquivo principal
+python main.py
+```
+Após iniciar o jogo, utilize o teclado para controlar o morcego e desviar dos obstáculos. O objetivo é permanecer na partida pelo maior tempo possível e alcançar a maior pontuação.
+
+---
+
+## 📖 Documentação
+
+Para a construção deste projeto, foram consultadas documentações e materiais de referência relacionados ao desenvolvimento de jogos em Python, principalmente:
+
+* **Python Documentation** — Referência da linguagem Python.
+* **Pygame Documentation** — Referência das funcionalidades utilizadas no desenvolvimento do jogo.
+
+---
+
+## 📄 Licença
+
+Este projeto possui Licença MIT e foi desenvolvido para fins educacionais e de portfólio. O código pode ser utilizado e modificado conforme os termos da licença, com a devida atribuição ao desenvolvedor original.
