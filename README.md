@@ -33,13 +33,13 @@ Além da inspiração na mecânica do Dino, desenvolvi uma identidade visual pr�
 * **Teste de Game Over:** Validação do encerramento da partida após uma colisão.
 * **Teste de Funcionamento:** Execução de diferentes partidas para verificar o comportamento conjunto dos elementos do jogo.
 
-⸻
+---
 
 ## 🛠️ Tecnologias e Linguagens
 
 * Python
 
-⸻
+---
 
 ## 📚 Bibliotecas e Frameworks
 
@@ -64,7 +64,8 @@ pip install pygame
 ```
 ---
 
-##🚀 Instruções de Uso
+## 🚀 Instruções de Uso
+
 ```bash
 # 1. Abra o terminal na pasta do projeto
 # 2. Execute o arquivo principal
