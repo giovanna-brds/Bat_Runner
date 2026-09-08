@@ -1,5 +1,7 @@
 # 🦇 Bat Runner
 
+![Demonstração do Bat Runner](docs/bat-runner.gif)
+
 ## 📝 Descrição do Projeto
 
 O Bat Runner é um jogo 2D desenvolvido em Python utilizando a biblioteca Pygame, inspirado na dinâmica simples e intuitiva do clássico jogo do Dino do Google Chrome.
